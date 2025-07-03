@@ -1,2 +1,6 @@
-# java-daily-practice
-A daily problem-solving tracker in Java. Practicing core logic, string/array/number problems, and algorithmic thinking with clean, organized code.
+# 📘 Java Daily Practice
+
+Welcome to my daily Java problem-solving repository!  
+This repo is where I commit one Java program every day — focusing on clean logic, patterns, number problems, string manipulation, arrays, loops, and more.
+
+
